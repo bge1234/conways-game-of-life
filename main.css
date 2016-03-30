@@ -1,0 +1,20 @@
+table {
+  border-collapse:collapse
+}
+
+td {
+  width: 80px;
+  height: 50px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.dead {
+  background-color: black;
+  color: white;
+}
+
+.alive {
+  background-color: white;
+  color: black;
+}
